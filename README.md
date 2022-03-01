@@ -1,0 +1,2 @@
+# dsmcer_guest_lecture
+Hyperparameter optimization lecture
